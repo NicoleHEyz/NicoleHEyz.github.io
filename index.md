@@ -9,9 +9,9 @@ I’m a Ph.D. candidate in Marine Science at Shanghai Jiao Tong University, work
 Transitioning from a background in Geology to Physical Oceanography, I have expanded my perspective from long-term geological scientific stories to the theoretical knowledge of geophysical fluid dynamics. This interdisciplinary experience has equipped me with a comprehensive view of both Earth system science and local ocean dynamic processes.
 
 ## Education
-**Sep.2021-Jun.2026**(expected)   **Ph.D. in Marine Science**, *School of Oceanography*, Shanghai Jiao Tong University, Shanghai, China
+**[Sep.2021-Jun.2026]**(expected)   **Ph.D. in Marine Science**, *School of Oceanography*, Shanghai Jiao Tong University, Shanghai, China
      
-**Sep.2017-Jun.2021**   **B.S. in Geology**, *School of Ocean and Earth Science*, Tongji University, Shanghai, China
+**[Sep.2017-Jun.2021]**   **B.S. in Geology**, *School of Ocean and Earth Science*, Tongji University, Shanghai, China
 
 
 ## Research Interests
@@ -28,12 +28,6 @@ Transitioning from a background in Geology to Physical Oceanography, I have expa
 - **[Dec. 2019]** **Recipient of Outstanding Student Scholarship**, Tongji University
 
 
-<!-- {% include_relative _includes/publications.md %} -->
-
-{% include_relative _includes/projects.md %}
-
-
-
 ## Projects
 - **[Mar. 2021-Jun. 2021]** **Undergraduate Thesis Project**, Tongji University
  Individual Project “Surface Mean Currents and Eddy Kinetic Energy of the Adjacent Cosmonauts Sea Region, East Antarctica”, instructed by Prof. Meng Zhou and Prof. Yanwei Zhang.
@@ -46,12 +40,16 @@ Transitioning from a background in Geology to Physical Oceanography, I have expa
  Provided a processing method of long-term observation from seafloor stations.
  ***Shanghai Innovation Project Award***
 
+- **[Jul. 2020-Feb. 2021]** **Earth Data Research Program**, Zhejiang University
+Leader of the group Technology and group member of Carbonate
+Tested machine learning methods applied in earth data and analyzed for scientific problems.
 
 
 
-## Collaboration
-- **[Feb. 2023]** *Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
-- **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
+
+<!-- {% include_relative _includes/publications.md %} -->
+
+{% include_relative _includes/projects.md %}
 
 
 
