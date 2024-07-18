@@ -12,12 +12,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">K-Tensors: Clustering Positive Semi-Definite Matrices</a></div>
-    <div class="author"><strong>Hanchao Zhang</strong></div>
-    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, May. 2023.</em></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2002.10211.pdf">Strong eddy kinetic energy anomalies induced by baroclinic instability in the southwest region of the Kerguelen Plateau, East Antarctica</a></div>
+    <div class="author"><strong>Yunzhu He</strong></div>
+    <div class="periodical"><em>arXiv <strong>(arXiv)</strong>, Jun. 2024.</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Hanchao-Zhang/K-Tensors" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JC020667" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://dblp.uni-trier.de/rec/conf/cvpr/LiuSLSS20.html?view=bibtex" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
       <strong><i style="color:#7b5aa6">arXiv.org</i></strong>
     </div>
