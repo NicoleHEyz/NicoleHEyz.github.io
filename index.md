@@ -27,6 +27,12 @@ Transitioning from a background in Geology to Physical Oceanography, I have expa
 
 {% include_relative _includes/projects.md %}
 
+## Projects
+- **[Mar. 2021-Jun. 2021]** **Undergraduate Thesis Project**, Tongji University
+Individual Project “Surface Mean Currents and Eddy Kinetic Energy of the Adjacent Cosmonauts Sea Region, East Antarctica”, instructed by Prof. Meng Zhou and Prof. Yanwei Zhang . 
+Analyzed regional surface mean currents and eddy kinetic energy variations based on surface drifters, satellite altimetry, and reanalysis data.
+***Excellent Graduation Thesis of Tongji University in 2021***
+
 
 ## Collaboration
 - **[Feb. 2023]** *Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
