@@ -19,6 +19,10 @@ Transitioning from a background in Geology to Physical Oceanography, I have expa
 - **Antarctic Water Mass Transport** e.g., poleward intrusion of Circumpolar Deep Water  
 
 
+{% include_relative _includes/projects.md %}
+
+
+
 ## Projects
 - **[Nov.2022-present]** **Energy Transformation Processes of Subpolar Circulation and Water Masses in the Indian Sector of the Southern Ocean**    
 Energetics analysis for an anomalous event of strong EKE anomalies observed in the Indian sector of the Southern Ocean, providing regional patterns of energy and characteristics of energy transformation.  
@@ -52,8 +56,6 @@ Tested machine learning methods applied in earth data and analyzed for scientifi
 
 
 <!-- {% include_relative _includes/publications.md %} -->
-
-{% include_relative _includes/projects.md %}
 
 
 
