@@ -8,6 +8,12 @@ I’m a Ph.D. candidate in Marine Science at Shanghai Jiao Tong University, work
 
 Transitioning from a background in Geology to Physical Oceanography, I have expanded my perspective from long-term geological scientific stories to the theoretical knowledge of geophysical fluid dynamics. This interdisciplinary experience has equipped me with a comprehensive view of both Earth system science and local ocean dynamic processes.
 
+## Education
+**Sep.2021-Jun.2026**   **Ph.D. in Marine Science**, *School of Oceanography*, Shanghai Jiao Tong University, Shanghai, China
+     (expected)         GPA: 3.75/4
+     
+**Sep.2017-Jun.2021**   **B.S.** in Geology**, *School of Ocean and Earth Science*, Tongji University, Shanghai, China
+                        GPA: 4.64/5 (Ranking: 10%)
 
 ## Research Interests
 - **Eddy-mean flow interaction** 
