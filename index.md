@@ -27,6 +27,8 @@ Transitioning from a background in Geology to Physical Oceanography, I have expa
 
 {% include_relative _includes/projects.md %}
 
+
+
 ## Projects
 - **[Mar. 2021-Jun. 2021]** **Undergraduate Thesis Project**, Tongji University
 Individual Project “Surface Mean Currents and Eddy Kinetic Energy of the Adjacent Cosmonauts Sea Region, East Antarctica”, instructed by Prof. Meng Zhou and Prof. Yanwei Zhang . 
@@ -37,6 +39,7 @@ Analyzed regional surface mean currents and eddy kinetic energy variations based
 ## Collaboration
 - **[Feb. 2023]** *Low muscle mass is associated with a higher risk of all–cause and cardiovascular disease–specific mortality in cancer survivors*</a> has been accepted by **Nutrition**. 
 - **[Aug. 2021]** <a href="https://www.jmcp.org/doi/full/10.18553/jmcp.2021.27.10.1482" target="_blank">*Validation of EHR medication fill data obtained through electronic linkage with pharmacies*</a> has been accepted by the **Journal of Managed Care & Specialty Pharmacy**.
+
 
 
 
