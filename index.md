@@ -5,10 +5,8 @@ layout: homepage
 ## About Me
 
 <!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> Shanghai Jiao Tong University</a>, -->
-I'm a Ph.D. candidate in Marine Science at <a href="https://www.nyu.edu/" target="_blank"> Shanghai Jiao Tong University</a>,
-<!-- 's <a href="https://med.nyu.edu/" target="_blank"> Grossman School of Medicine</a> -->
-<!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
-working under the mentorship of Prof.<a href="https://scholar.google.com/citations?user=QtyFQVYAAAAJ&hl=en" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data. This endeavor confronts two main challenges: First, how to define a metric with self-consistent property to cluster a population into subgroups, based on rich and complex tensor data for each individual. Second, how to develop a semi-supervised clustering algorithm, directed by a specific label, to accurately identify subgroups that align closely with a target subgroup of interest.
+I’m a Ph.D. candidate in Marine Science at Shanghai Jiao Tong University, working under the mentorship of Prof.<a href="https://soo.sjtu.edu.cn/en/szjyry/3594.html" target="_blank"> Meng Zhou</a>. My doctoral research focuses on the energetics of subpolar circulation and the processes of water mass transport in the Antarctic. I am deeply interested in the mechanisms and implications of extreme events under the climate change background. My research involves analyzing and discussing these phenomena based on both observational data and model results.
+Transitioning from a background in Geology to Physical Oceanography, I have expanded my perspective from long-term geological scientific stories to the theoretical knowledge of geophysical fluid dynamics. This interdisciplinary experience has equipped me with a comprehensive view of both Earth system science and local ocean dynamic processes.
 
 
 ## Research Interests
@@ -20,19 +18,16 @@ working under the mentorship of Prof.<a href="https://scholar.google.com/citatio
 - **[Oct. 2023]** **Merit Student**, Shanghai Jiao Tong University
 - **[Oct. 2023]** **Advanced Social Practice In dividual**, Shanghai Jiao Tong University
 - **[Jul. 2021]** **Outstanding Graduate**, Tongji University
-- **[Jan. 2020]** **Outstanding Student**, Tongji University , Tongji University
-- **[2018-2018]** **Recipient of Outstanding Student Scholarship**, Tongji University
 - **[Dec. 2020]** **Recipient of Marine Geology Scholarship**, Tongji University
+- **[Jan. 2020]** **Outstanding Student**, Tongji University , Tongji University
+- **[Dec. 2019]** **Recipient of Outstanding Student Scholarship**, Tongji University
 
 
 <!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/talks.md %}
-
-
-
+<!-- {% include_relative _includes/talks.md %} -->
 
 
 ## Collaboration
