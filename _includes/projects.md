@@ -7,13 +7,13 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/nips2023.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">arXiv</abbr>
+    <img src="assets/img/Pub1.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">JGRO</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
      <div class="title"><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JC020667">Strong eddy kinetic energy anomalies induced by baroclinic instability in the southwest region of the Kerguelen Plateau, East Antarctica</a></div>
-    <div class="author"><strong>Yunzhu He</strong>, Meng Zhou*, and Dujuan Kang (*Corresponding authors)</div>
+    <div class="author"><strong>Yunzhu He</strong>, Meng Zhou*, and Dujuan Kang (* Corresponding author)</div>
     <div class="periodical"><em><strong>Journal of Geophysical Research: Oceans</strong>, Jun. 2024.</em></div>
     <div class="links">
     <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JC020667" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
