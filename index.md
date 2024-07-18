@@ -56,11 +56,6 @@ Tested machine learning methods applied in earth data and analyzed for scientifi
 
 <!-- {% include_relative _includes/publications.md %} -->
 
-## Skills & Interests
-- Programming Languages: MATLAB, Python, C++
-- Numerical Modeling Practice: ROMS, POM
-- Language: Chinese Mandarin (Native), English (Cet-6)
-- Interests: Dance, Cello, Photography, Volunteering
 
 ## Internship Experiences
 - **[Sep. 2022]** Marine Practice, Shanghai Jiao Tong University  
@@ -70,7 +65,10 @@ Operated specific software to process observation data (e.g., CTD/ADCP) and anal
 Worked for collation and update of Museum collections database.
 
 
-<!-- {% include_relative _includes/services.md %} -->
-
+## Skills & Interests
+- Programming Languages: MATLAB, Python, C++
+- Numerical Modeling Practice: ROMS, POM
+- Language: Chinese Mandarin (Native), English (Cet-6)
+- Interests: Dance, Cello, Photography, Volunteering
 
 
