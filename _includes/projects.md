@@ -13,14 +13,14 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
      <div class="title"><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JC020667">Strong eddy kinetic energy anomalies induced by baroclinic instability in the southwest region of the Kerguelen Plateau, East Antarctica</a></div>
-    <div class="author"><strong>Yunzhu He</strong>, Meng Zhou*, and Dujuan Kang </div>
+    <div class="author"><strong>Yunzhu He</strong>, Meng Zhou*, and Dujuan Kang</div>
     <div class="periodical"><em><strong>Journal of Geophysical Research: Oceans</strong>, Jun. 2024.</em></div>
     <div class="links">
     <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JC020667" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
       <a href="https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2023JC020667" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <!-- <a href="https://github.com/Hanchao-Zhang/Self-Consistency-Clustering" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">GitHub</a> -->
       <!-- <a href="https://pypi.org/project/KTensors/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Package</a> -->
-
+     </div>
   </div>
 </div>
 </li>
