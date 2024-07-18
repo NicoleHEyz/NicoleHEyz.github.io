@@ -11,17 +11,9 @@ I'm a Ph.D. candidate in Marine Science at <a href="https://www.nyu.edu/" target
 working under the mentorship of Prof.<a href="https://scholar.google.com/citations?user=QtyFQVYAAAAJ&hl=en" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data. This endeavor confronts two main challenges: First, how to define a metric with self-consistent property to cluster a population into subgroups, based on rich and complex tensor data for each individual. Second, how to develop a semi-supervised clustering algorithm, directed by a specific label, to accurately identify subgroups that align closely with a target subgroup of interest.
 
 
-## Education
-Sep.2021-Jun.2026   Ph.D. in Marine Science, *School of Oceanography*, Shanghai Jiao Tong University, Shanghai, China
-   (expected)       GPA: 3.75/4
-Sep.2017-Jun.2021   B.S. in Geology, *School of Ocean and Earth Science*, Tongji University, Shanghai, China
-                    GPA: 4.64/5 (Ranking: 10%)
-
 ## Research Interests
 - **Energetics of Subpolar Circulation:** eddy-mean flow interaction
 - **Antarctic Water Mass Transport** e.g., poleward intrusion of Circumpolar Deep Water  
-
-
 
 
 ## Awards
@@ -31,8 +23,6 @@ Sep.2017-Jun.2021   B.S. in Geology, *School of Ocean and Earth Science*, Tongji
 - **[Jan. 2020]** **Outstanding Student**, Tongji University , Tongji University
 - **[2018-2018]** **Recipient of Outstanding Student Scholarship**, Tongji University
 - **[Dec. 2020]** **Recipient of Marine Geology Scholarship**, Tongji University
-
-
 
 
 <!-- {% include_relative _includes/publications.md %} -->
