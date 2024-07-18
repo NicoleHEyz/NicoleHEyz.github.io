@@ -31,20 +31,15 @@ Transitioning from a background in Geology to Physical Oceanography, I have expa
 
 ## Projects
 - **[Mar. 2021-Jun. 2021]** **Undergraduate Thesis Project**, Tongji University
-Individual Project “Surface Mean Currents and Eddy Kinetic Energy of the Adjacent Cosmonauts Sea Region, East Antarctica”, instructed by Prof. Meng Zhou and Prof. Yanwei Zhang.
- 
-Analyzed regional surface mean currents and eddy kinetic energy variations based on surface drifters, satellite altimetry, and reanalysis data.
-
-***Excellent Graduation Thesis of Tongji University in 2021***</a>
+ Individual Project “Surface Mean Currents and Eddy Kinetic Energy of the Adjacent Cosmonauts Sea Region, East Antarctica”, instructed by Prof. Meng Zhou and Prof. Yanwei Zhang.
+ Analyzed regional surface mean currents and eddy kinetic energy variations based on surface drifters, satellite altimetry, and reanalysis data.
+ ***Excellent Graduation Thesis of Tongji University in 2021***</a>
 
 - **[Mar. 2019-Mar. 2021]** **Innovation and Entrepreneurship Training Program**, Tongji University
-Led the Program "Effect of Seasonal Strong Wind Field on Submarine Seismic Signals in the Northern South China Sea", instructed by Prof. Zhang Yanwei.
-
-Concluded anomalous variation of submarine seismic signals trigged by typhoons and tides.
-
-Provided a processing method of long-term observation from seafloor stations.
-
-***Shanghai Innovation Project Award***
+ Led the Program "Effect of Seasonal Strong Wind Field on Submarine Seismic Signals in the Northern South China Sea", instructed by Prof. Zhang Yanwei.
+ Concluded anomalous variation of submarine seismic signals trigged by typhoons and tides.
+ Provided a processing method of long-term observation from seafloor stations.
+ ***Shanghai Innovation Project Award***
 
 
 
