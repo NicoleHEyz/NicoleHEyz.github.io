@@ -3,14 +3,14 @@ layout: homepage
 ---
 
 ## About Me
-
 <!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> Shanghai Jiao Tong University</a>, -->
 I’m a Ph.D. candidate in Marine Science at Shanghai Jiao Tong University, working under the mentorship of Prof.<a href="https://soo.sjtu.edu.cn/en/szjyry/3594.html" target="_blank"> Meng Zhou</a>. My doctoral research focuses on the energetics of subpolar circulation and the processes of water mass transport in the Antarctic. I am deeply interested in the mechanisms and implications of extreme events under the climate change background. My research involves analyzing and discussing these phenomena based on both observational data and model results.
+
 Transitioning from a background in Geology to Physical Oceanography, I have expanded my perspective from long-term geological scientific stories to the theoretical knowledge of geophysical fluid dynamics. This interdisciplinary experience has equipped me with a comprehensive view of both Earth system science and local ocean dynamic processes.
 
 
 ## Research Interests
-- **Energetics of Subpolar Circulation:** eddy-mean flow interaction
+- **Eddy-mean flow interaction** 
 - **Antarctic Water Mass Transport** e.g., poleward intrusion of Circumpolar Deep Water  
 
 
@@ -26,8 +26,6 @@ Transitioning from a background in Geology to Physical Oceanography, I have expa
 <!-- {% include_relative _includes/publications.md %} -->
 
 {% include_relative _includes/projects.md %}
-
-<!-- {% include_relative _includes/talks.md %} -->
 
 
 ## Collaboration
