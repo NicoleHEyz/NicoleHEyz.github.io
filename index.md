@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/aeb61c3d-b205-4c83-b36c-bf8ac4eda952)![image](https://github.com/user-attachments/assets/9d4dd421-5538-4ae7-b846-7bcb5d013ad0)---
 layout: homepage
 ---
 
@@ -10,25 +10,29 @@ I'm a Ph.D. candidate in Marine Science at <a href="https://www.nyu.edu/" target
 <!-- , specifically within the <a href="https://med.nyu.edu/research/sackler-institute-graduate-biomedical-sciences/" target="_blank"> Vilcek institute of Biomedical Sciences</a> and the Department of <a href="https://med.nyu.edu/departments-institutes/population-health/" target="_blank"> Population Health</a>. Under the mentorship of Prof.  -->
 working under the mentorship of Prof.<a href="https://scholar.google.com/citations?user=QtyFQVYAAAAJ&hl=en" target="_blank"> Thaddeus Tarpey</a>. My research involves developing statistical models that cater to high-dimensional complex data, such as functional and imaging data. This endeavor confronts two main challenges: First, how to define a metric with self-consistent property to cluster a population into subgroups, based on rich and complex tensor data for each individual. Second, how to develop a semi-supervised clustering algorithm, directed by a specific label, to accurately identify subgroups that align closely with a target subgroup of interest.
 
-In the summer of 2022, I had the opportunity to work as a Research Data Scientist Intern at <a href="https://about.google" target="_blank"> Google</a>, where I applied my statistical skills to real-world problems. Prior to joining the Ph.D. program, I completed my master's degree in Biostatistics and Data Science from <a href="https://www.cornell.edu" target = "_blank"> Cornell University</a> advised by Prof. <a href= "https://www.idiaz.xyz" target = "_blank"> Iván Díaz</a>.
-<!-- and my bachelor's degree in International Finance from <a href="https://www.cueb.edu.cn" target = "_blank"> Capital University of Economics and Business</a>.  -->
 
-<!-- 
-I am an alumnus of the <a href="https://opencasestudies.github.io/" target="_blank"> Open Case Study Project</a> at <a href="https://www.jhsph.edu/" target="_blank"> the Bloomberg School of Public Health </a> of <a href="https://www.jhu.edu/" target="_blank"> the Johns Hopkins University</a>. -->
-
-Outside of academia, I began my journey as a professional swimmer at the age of 5 and went on to achieve several regional and national championships. I'm also passionate about Chinese calligraphy, and my artwork has been exhibited in top galleries and museums including the <a href="http://www.namoc.org/" target="_blank"> National Art Museum of China (Beijing)</a>. In addition, I am also interested in oil painting, and aeromodelling.
-
+## Education
+Sep.2021-Jun.2026   Ph.D. in Marine Science, *School of Oceanography*, Shanghai Jiao Tong University, Shanghai, China
+   (expected)       GPA: 3.75/4
+Sep.2017-Jun.2021   B.S. in Geology, *School of Ocean and Earth Science*, Tongji University, Shanghai, China
+                    GPA: 4.64/5 (Ranking: 10%)
 
 ## Research Interests
-- **Causal Inference and Precision Medicine:** causal subpopulation identification, mediation analysis, personalized recommendation based on treatment effect and generated effect modifiers
-- **Machine Learning:** fairness ML, semi-supervised learning
-- **Manifold Learning and Metric Learning:** positive semi-definite manifold learning and metric learning
-- **Functional Data Analysis:** functional regression, and clustering methods
+- **Energetics of Subpolar Circulation:** eddy-mean flow interaction
+- **Antarctic Water Mass Transport** e.g., poleward intrusion of Circumpolar Deep Water  
+
+
 
 
 ## Awards
-- **[Oct. 2023]** *Merit Student*</a>, Shanghai Jiao Tong University
-- **[Oct. 2023]** <a href="https://gsas.nyu.edu/admissions/financial-aid/graduate-school-fellowships-and-assistantships.html" target="_blank">*Merit Student*</a>, Shanghai Jiao Tong University
+- **[Oct. 2023]** **Merit Student**, Shanghai Jiao Tong University
+- **[Oct. 2023]** **Advanced Social Practice In dividual**, Shanghai Jiao Tong University
+- **[Jul. 2021]** **Outstanding Graduate**, Tongji University
+- **[Jan. 2020]** **Outstanding Student**, Tongji University , Tongji University
+- **[2018-2018]** **Recipient of Outstanding Student Scholarship**, Tongji University
+- **[Dec. 2020]** **Recipient of Marine Geology Scholarship**, Tongji University
+
+
 
 
 <!-- {% include_relative _includes/publications.md %} -->
@@ -36,8 +40,6 @@ Outside of academia, I began my journey as a professional swimmer at the age of 
 {% include_relative _includes/projects.md %}
 
 {% include_relative _includes/talks.md %}
-
-
 
 
 
