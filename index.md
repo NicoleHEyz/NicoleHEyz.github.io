@@ -19,15 +19,6 @@ Transitioning from a background in Geology to Physical Oceanography, I have expa
 - **Antarctic Water Mass Transport** e.g., poleward intrusion of Circumpolar Deep Water  
 
 
-## Awards
-- **[Oct. 2023]** **Merit Student**, Shanghai Jiao Tong University
-- **[Oct. 2023]** **Advanced Social Practice In dividual**, Shanghai Jiao Tong University
-- **[Jul. 2021]** **Outstanding Graduate**, Tongji University
-- **[Dec. 2020]** **Recipient of Marine Geology Scholarship**, Tongji University
-- **[Jan. 2020]** **Outstanding Student**, Tongji University , Tongji University
-- **[Dec. 2019]** **Recipient of Outstanding Student Scholarship**, Tongji University
-
-
 ## Projects
 - **[Nov.2022-present]** **Energy Transformation Processes of Subpolar Circulation and Water Masses in the Indian Sector of the Southern Ocean**    
 Energetics analysis for an anomalous event of strong EKE anomalies observed in the Indian sector of the Southern Ocean, providing regional patterns of energy and characteristics of energy transformation.  
@@ -50,6 +41,14 @@ Seeks to explore dynamic processes involved in deep water transport, as well as 
 Leader of the group Technology and group member of Carbonate  
 Tested machine learning methods applied in earth data and analyzed for scientific problems.
 
+
+## Awards
+- **[Oct. 2023]** **Merit Student**, Shanghai Jiao Tong University
+- **[Oct. 2023]** **Advanced Social Practice In dividual**, Shanghai Jiao Tong University
+- **[Jul. 2021]** **Outstanding Graduate**, Tongji University
+- **[Dec. 2020]** **Recipient of Marine Geology Scholarship**, Tongji University
+- **[Jan. 2020]** **Outstanding Student**, Tongji University , Tongji University
+- **[Dec. 2019]** **Recipient of Outstanding Student Scholarship**, Tongji University
 
 
 <!-- {% include_relative _includes/publications.md %} -->
