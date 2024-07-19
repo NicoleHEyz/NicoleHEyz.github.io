@@ -59,15 +59,16 @@ Tested machine learning methods applied in earth data and analyzed for scientifi
 
 
 ## Internship Experiences
-- **[Sep. 2022]** Marine Practice, Shanghai Jiao Tong University  
-Participated in interdisciplinary practices, practiced the use of instruments (e.g., CTD/ADCP).  
+- **[Sep. 2022]** **Marine Practice**, Shanghai Jiao Tong University  
+Participated in interdisciplinary practices.  
+Practiced the use of instruments (e.g., CTD, ADCP).    
 Operated specific software to process observation data and analyzed results.
-- **[Sep. 2018-Mar. 2021]** The Natural History Research Center of the Shanghai Natural History Museum  
+- **[Sep. 2018-Mar. 2021]** **The Natural History Research Center of the Shanghai Natural History Museum**  
 Worked for collation and update of Museum collections database.
 
 
 ## Skills & Interests
-- Programming Languages: MATLAB, Python, C++
+- Programming Language: MATLAB, Python, C++
 - Numerical Modeling Practice: ROMS, POM
 - Language: Chinese Mandarin (Native), English (Cet-6)
 - Interests: Dance, Cello, Photography, Volunteering
