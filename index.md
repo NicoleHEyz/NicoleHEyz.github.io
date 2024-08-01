@@ -55,6 +55,16 @@ Tested machine learning methods applied in earth data and analyzed for scientifi
 - **[Dec. 2019]** **Recipient of Outstanding Student Scholarship**, Tongji University
 
 
+## Conferences (presenter)
+- **[May. 2024]** The 9th Young Scientist Forum of Earth Science (Talk)
+- **[Feb. 2024]** AGU Ocean Sciences Meeting (Poster)
+
+
+## Teaching
+- **[Fall 2022]** Teaching Assistant of Physical Oceanography (Compulsory course for graduate students)
+- **[Fall 2021]** Teaching Assistant of Numerical Methods in Ocean Science (Compulsory course for undergraduate students)
+- **[Spring 2023]** Teaching Assistant of Step into the Ocean (Elective courses for undergraduate students)
+
 <!-- {% include_relative _includes/publications.md %} -->
 
 
