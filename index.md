@@ -56,6 +56,8 @@ Tested machine learning methods applied in earth data and analyzed for scientifi
 
 
 ## Conferences (presenter)
+- **[Jan. 2025]** 7th Xiamen Symposium on Marine Environmental Sciences (Lightning Talk)
+- **[Oct. 2024]** 3rd International Symposium on Polar Ocean and Global Change (Poster)
 - **[May. 2024]** The 9th Young Scientist Forum of Earth Science (Talk)
 - **[Feb. 2024]** AGU Ocean Sciences Meeting (Poster)
 
@@ -80,7 +82,6 @@ Worked for collation and update of Museum collections database.
 ## Skills & Interests
 - Programming Language: MATLAB, Python, C++
 - Numerical Modeling Practice: ROMS, POM
-- Language: Chinese Mandarin (Native), English (Cet-6)
-- Interests: Dance, Cello, Photography, Volunteering
-
+- Language: Chinese Mandarin (Native), English (IELTS-6.5)
+- Interests: Dance, Cello, Photography
 
