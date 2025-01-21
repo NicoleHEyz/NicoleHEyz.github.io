@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 <!-- I'm a <a href="https://med.nyu.edu/departments-institutes/population-health/divisions-sections-centers/biostatistics/" target="_blank"> Statistics</a> Ph.D. candidate at <a href="https://www.nyu.edu/" target="_blank"> Shanghai Jiao Tong University</a>, -->
-I’m a Ph.D. candidate in Physical Oceanography at Shanghai Jiao Tong University, working under the mentorship of Prof.<a href="https://soo.sjtu.edu.cn/en/szjyry/3594.html" target="_blank"> Meng Zhou (周朦)</a>. My doctoral research focuses on the energetics of subpolar circulation and the processes of water mass transport in the Antarctic. I am deeply interested in the mechanisms and implications of extreme events under the climate change background. My research involves analyzing and discussing these phenomena based on both observational data and model results.
+I’m a Ph.D. candidate in Physical Oceanography at Shanghai Jiao Tong University, working under the mentorship of Prof.<a href="https://soo.sjtu.edu.cn/teacher-list/zhoumeng.html" target="_blank"> Meng Zhou (周朦)</a>. My doctoral research focuses on the energetics of subpolar circulation and the processes of water mass transport in the Antarctic. I am deeply interested in the mechanisms and implications of extreme events under the climate change background. My research involves analyzing and discussing these phenomena based on both observational data and model results.
 
 Transitioning from a background in Geology to Physical Oceanography, I have expanded my perspective from long-term geological scientific stories to the theoretical knowledge of geophysical fluid dynamics. This interdisciplinary experience has equipped me with a comprehensive view of both Earth system science and local ocean dynamic processes.
 
@@ -20,7 +20,7 @@ Transitioning from a background in Geology to Physical Oceanography, I have expa
 - **Causes and implications of extreme events**
 
 
-{% include_relative _includes/projects.md %}
+{% include_relative _includes/projects.md %} 
 
 
 ## Projects
@@ -31,7 +31,7 @@ Seeks to explore dynamic processes involved in deep water transport, as well as 
 ***He, Y., Zhou, M., & Kang, D. (2024, February). Strong Eddy Kinetic Energy Anomaly Induced by Baroclinic Instability in the Southwest Region of the Kerguelen Plateau, East Antarctic. In 2024 Ocean Sciences Meeting. AGU.***
 
 - **[Mar. 2021-Jun. 2021]** **Surface Mean Currents and Eddy Kinetic Energy of the Adjacent Cosmonauts Sea Region, East Antarctica**  
- *Undergraduate Thesis Project* (Tongji University), instructed by Prof. Meng Zhou and Prof. Yanwei Zhang.  
+ *Undergraduate Thesis Project* (Tongji University), instructed by Prof. Meng Zhou and Prof.<a href="https://mgg.tongji.edu.cn/18/cc/c22851a202956/page.htm" target="_blank"> Yanwei Zhang</a>.  
  Analyzed regional surface mean currents and eddy kinetic energy variations based on surface drifters, satellite altimetry, and reanalysis data.  
  ***Excellent Graduation Thesis of Tongji University in 2021***
 
