@@ -16,8 +16,8 @@ Transitioning from a background in Geology to Physical Oceanography, I have expa
 
 ## Research Interests
 - **Eddy-mean flow interaction** 
-- **Antarctic ocean circulation**
-- **Polar dynamics** e.g., water mass tranport in the Southern Ocean, mechanisms of extreme events 
+- **Polar dynamics** e.g., Antarctic ocean circulation, water mass tranport in the Southern Ocean
+- **Causes and implications of extreme events**
 
 
 {% include_relative _includes/projects.md %}
@@ -38,12 +38,19 @@ Seeks to explore dynamic processes involved in deep water transport, as well as 
 - **[Mar. 2019-Mar. 2021]** **Effect of Seasonal Strong Wind Field on Submarine Seismic Signals in the Northern South China Sea**  
  Leader of the *Innovation and Entrepreneurship Training Program*, instructed by Prof. Yanwei Zhang.    
  Concluded anomalous variation of submarine seismic signals trigged by typhoons and tides.    
- Provided a processing method of long-term observation from seafloor stations.    
+ Provided a processing method of long-term observation from seafloor seismic stations.    
  ***Shanghai Innovation Project Award***
 
 - **[Jul. 2020-Feb. 2021]** **Earth Data Research Program**, Zhejiang University  
 Leader of the group Technology and group member of Carbonate  
 Tested machine learning methods applied in earth data and analyzed for scientific problems.
+
+
+## Conferences (presenter)
+- **[Jan. 2025]** 7th Xiamen Symposium on Marine Environmental Sciences (Lightning Talk)
+- **[Oct. 2024]** 3rd International Symposium on Polar Ocean and Global Change (Poster)
+- **[May. 2024]** The 9th Young Scientist Forum of Earth Science (Talk)
+- **[Feb. 2024]** AGU Ocean Sciences Meeting (Poster)
 
 
 ## Awards
@@ -53,13 +60,6 @@ Tested machine learning methods applied in earth data and analyzed for scientifi
 - **[Dec. 2020]** **Recipient of Marine Geology Scholarship**, Tongji University
 - **[Jan. 2020]** **Outstanding Student**, Tongji University
 - **[Dec. 2019]** **Recipient of Outstanding Student Scholarship**, Tongji University
-
-
-## Conferences (presenter)
-- **[Jan. 2025]** 7th Xiamen Symposium on Marine Environmental Sciences (Lightning Talk)
-- **[Oct. 2024]** 3rd International Symposium on Polar Ocean and Global Change (Poster)
-- **[May. 2024]** The 9th Young Scientist Forum of Earth Science (Talk)
-- **[Feb. 2024]** AGU Ocean Sciences Meeting (Poster)
 
 
 ## Teaching
