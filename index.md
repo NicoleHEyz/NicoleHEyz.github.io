@@ -11,15 +11,15 @@ Transitioning from a background in Geology to Physical Oceanography, I have expa
 ## Education
 **[Sep.2021-Jun.2026]**(expected)   **Ph.D. in Marine Science**, *School of Oceanography*, Shanghai Jiao Tong University, Shanghai, China
 
-**[Sep. 2025 – ]**   Visiting Ph.D. Researcher, School of Environmental Sciences, University of East Anglia, Norwich, UK
+**[Sep. 2025 – ]**   Visiting Ph.D. Researcher, *School of Environmental Sciences*, University of East Anglia, Norwich, UK
      
 **[Sep.2017-Jun.2021]**   **B.S. in Geology**, *School of Ocean and Earth Science*, Tongji University, Shanghai, China
 
 
 ## Research Interests
-- **Eddy-mean flow interaction** 
-- **Polar dynamics** e.g., Antarctic ocean circulation, water mass tranport in the Southern Ocean
-- **Causes and implications of extreme events**
+- **Eddy–mean flow interaction** 
+- **Southern Ocean Circulation** (with a focus on water mass transformation and transport in the polar regions)
+- **Extreme events in the Southern Ocean** (underlying causes and climate implications)
 
 
 {% include_relative _includes/projects.md %} 
