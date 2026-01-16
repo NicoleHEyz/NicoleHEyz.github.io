@@ -9,9 +9,9 @@ I’m a Ph.D. candidate in Physical Oceanography at Shanghai Jiao Tong Universit
 Transitioning from a background in Geology to Physical Oceanography, I have expanded my perspective from long-term geological scientific stories to the theoretical knowledge of geophysical fluid dynamics. This interdisciplinary experience has equipped me with a comprehensive view of both Earth system science and local ocean dynamic processes.
 
 ## Education
-**[Sep.2021-Jun.2026]**(expected)   **Ph.D. in Marine Science**, *School of Oceanography*, Shanghai Jiao Tong University, Shanghai, China
+**[Sep.2021-present]**   **Ph.D. in Marine Science**, *School of Oceanography*, Shanghai Jiao Tong University, Shanghai, China
 
-**[Sep. 2025-present]**   Visiting Ph.D. Researcher, *School of Environmental Sciences*, University of East Anglia, Norwich, UK
+**[Sep. 2025-present]**   **Visiting Ph.D. Researcher**, *School of Environmental Sciences*, University of East Anglia, Norwich, UK
      
 **[Sep.2017-Jun.2021]**   **B.S. in Geology**, *School of Ocean and Earth Science*, Tongji University, Shanghai, China
 
@@ -26,11 +26,12 @@ Transitioning from a background in Geology to Physical Oceanography, I have expa
 
 
 ## Projects
-- **[Nov.2022-present]** **Energy Transformation Processes of Subpolar Circulation and Water Masses in the Indian Sector of the Southern Ocean**      
+- **[Nov.2022-present]** **Energy Transformation Processes of Subpolar Circulation and Water Masses in the Southern Ocean**      
 Energetics analysis for an anomalous event of strong eddy kinetic energy (EKE) anomalies observed in the Indian sector of the Southern Ocean, providing regional patterns of energy and characteristics of energy transformation.  
 Amis to reveal the governing mechanisms behind the extreme event by analyzing the causes of EKE anomalies and their associated anomalous poleward transport of Circumpolar Deep Water, quantifying the role of eddies.  
-Seeks to explore dynamic processes involved in deep water transport, as well as potential connections with climate variability and oceanic changes.  
-***He, Y., Zhou, M., & Kang, D. (2024, February). Strong Eddy Kinetic Energy Anomaly Induced by Baroclinic Instability in the Southwest Region of the Kerguelen Plateau, East Antarctic. In 2024 Ocean Sciences Meeting. AGU.***
+Seeks to explore dynamic processes involved in deep water transport, as well as potential connections with climate variability and oceanic changes.
+***He, Y., Zhou, M., Kang, D., & Karen J. Heywood. (2026, February). Deep Ocean Feedbacks Sustained by Eddy-Convection Coupling during the 2017 Anomalous Event off Prydz Bay. In 2026 Ocean Sciences Meeting. AGU.***  
+***He, Y., Zhou, M., & Kang, D. (2024, February). Strong Eddy Kinetic Energy Anomaly Induced by Baroclinic Instability in the Southwest Region of the Kerguelen Plateau, East Antarctica. In 2024 Ocean Sciences Meeting. AGU.***
 
 - **[Mar. 2021-Jun. 2021]** **Surface Mean Currents and Eddy Kinetic Energy of the Adjacent Cosmonauts Sea Region, East Antarctica**  
  *Undergraduate Thesis Project* (Tongji University), instructed by Prof. Meng Zhou and Prof.<a href="https://mgg.tongji.edu.cn/18/cc/c22851a202956/page.htm" target="_blank"> Yanwei Zhang</a>.  
@@ -57,6 +58,7 @@ Tested machine learning methods applied in earth data and analyzed for scientifi
 
 
 ## Awards
+- **[May 2025]** **Outstanding Youth League Member (May Fourth Award)**, Shanghai Jiao Tong University
 - **[Oct. 2023]** **Merit Student**, Shanghai Jiao Tong University
 - **[Oct. 2023]** **Advanced Social Practice In dividual**, Shanghai Jiao Tong University
 - **[Jul. 2021]** **Outstanding Graduate**, Tongji University
@@ -85,6 +87,6 @@ Worked for collation and update of Museum collections database.
 ## Skills & Interests
 - Programming Language: MATLAB, Python, C++
 - Numerical Modeling Practice: ROMS, POM
-- Language: Chinese Mandarin (Native), English (IELTS-6.5)
+- Language: Chinese Mandarin (Native), English (fluent academic and professional communication)
 - Interests: Dance, Cello, Photography
 
