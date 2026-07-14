@@ -5,7 +5,7 @@
 
 <!-- Publication 2 -->
 <li>
-<div class="pub-row">
+<div class="pub-row" style="margin-bottom: 35px;">
 
   <div class="col-sm-3 abbr" style="position: relative; padding-right: 15px; padding-left: 15px;">
     <img src="assets/img/Pub2.jpg"
